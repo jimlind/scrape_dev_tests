@@ -14,6 +14,8 @@ surf - Super lightweight scriptable browser
 
 Usage:
 Second command allows a larger wait time before quitting
+Third theoretically kills everything and restarts the BeagleBone
 
-download.sh http://www.google.com /tmp/google.txt
-download.sh http://www.google.com /tmp/google.txt slow
+bash download.sh http://www.google.com /tmp/google.txt
+bash download.sh http://www.google.com /tmp/google.txt slow
+bash kill.sh
