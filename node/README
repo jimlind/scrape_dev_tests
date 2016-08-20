@@ -1,0 +1,8 @@
+NodeJS Scraper
+
+This was my first attempt at getting the scraper to work.
+It worked for a few attempts but eventually Node would eat too much RAM and it would kill the browser.
+Linux doesn't like it when any one process eats too much RAM and it kills what it wants.
+
+After I tore it down to run almost nothing and I was still seeing the memory climb I decided to abandon it
+so it's in bad shape.
